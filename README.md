@@ -21,7 +21,7 @@ pip install requests
 1. **Clone the Repository**:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/C-Dog346/PRCount
 ```
 
 2. **Navigate to the Project Directory**:
