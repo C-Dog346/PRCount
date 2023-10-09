@@ -12,6 +12,8 @@ Before using PR Count, ensure that you have the following:
 
 **Requests Library**: PR Count uses the requests library to make HTTP requests. If you haven't installed it yet, you can install it using the following command:
 
+*DISCLAIMER - this application was developed on Windows and has not been tested on MacOS. It should work on both but you never know...*
+
 ```bash
 pip install requests 
 ```
