@@ -28,7 +28,13 @@ def count_open_pull_requests(owner, repo):
     print(f'Total number of open pull requests: {total_pull_requests}')
 
 if __name__ == '__main__':
-    print('Welcome to Multitudes CLI! Let’s process some Github Data!')
+    print('Welcome to Multitudes CLI! Let’s process some Github Data! Enjoy the dog')
+    print('''
+          ^..^      /
+          /_/\_____/
+             /\   /\\
+            /  \ /  \\
+            ''')
 
 
     ownerInput = input('Who is the repo owner?\n\t')
