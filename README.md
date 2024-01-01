@@ -1,5 +1,7 @@
 # PRCount
 
+A technical test assignment for an internship application.
+
 ## Overview 
 
 PRCount is a Python command-line interface (CLI) tool designed to access the GitHub API and count the number of open pull requests in a specified repository. This tool provides a simple way to monitor the activity in your GitHub repositories by fetching the relevant data from GitHub's API.
